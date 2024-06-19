@@ -1,2 +1,0 @@
-# LC-solutions
-
